@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Junior Web Developer looking for new opportunities! Please check this link for my CV!
+Junior Web Developer looking for new opportunities!
 
-[Amazing CV of amazingness] [https://docs.google.com/document/d/1ebwhWLVD5S24dUEs9D75yxg_sYM3pXbz4iT81CiDMT4/edit?usp=sharing]
+Email me for a copy of my CV! Check my Github page! Drop me a line in Twitter?
+
+No? OK :<
